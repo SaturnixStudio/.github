@@ -1,9 +1,11 @@
-# Porto Transit
+# Saturn Studio
 
-## 🚌 Sobre a Organização
+# 🚌 Sobre a Organização
 
-A Porto Transit é uma organização focada em transformar o transporte público do Porto por meio de soluções tecnológicas inovadoras. Nosso propósito é facilitar a mobilidade urbana, tornando o uso do transporte público mais eficiente, acessível e agradável para todos os cidadãos.
+A Saturn Studio é uma organização dedicada a transformar realidades através de soluções tecnológicas inovadoras. O nosso propósito é facilitar um acesso rápido, acessível e agradável a diversos ecossistemas.
 
-## 📱 Aplicativo Principal
+## Projetos
 
-O Porto Transit App é a nossa plataforma principal, projetada para oferecer uma experiência completa e intuitiva para quem utiliza o transporte público na cidade do Porto. Com informações atualizadas, rotas inteligentes e funcionalidades pensadas para o dia a dia, nosso app ajuda você a se deslocar com facilidade e confiança.
+### 📱 Porto Transit App
+
+Uma plataforma projetada para oferecer uma experiência completa e intuitiva para quem utiliza o transporte público na cidade do Porto. Com informações atualizadas, rotas inteligentes e funcionalidades pensadas para o dia a dia, nosso app ajuda você a se deslocar com facilidade e confiança.
