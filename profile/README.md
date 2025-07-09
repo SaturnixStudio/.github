@@ -8,4 +8,4 @@ A Saturnix é uma organização dedicada a transformar realidades através de so
 
 ### 📱 Porto Transit App
 
-Uma plataforma projetada para oferecer uma experiência completa e intuitiva para quem utiliza o transporte público na cidade do Porto. Com informações atualizadas, rotas inteligentes e funcionalidades pensadas para o dia a dia, nosso app ajuda você a se deslocar com facilidade e confiança.
+Uma plataforma concebida para oferecer uma experiência completa e intuitiva a quem utiliza os transportes públicos na cidade do Porto — com cobertura alargada a outras regiões de Portugal. Com informações atualizadas, rotas inteligentes e funcionalidades pensadas para o dia a dia, a nossa app ajuda-o a deslocar-se com facilidade e confiança, esteja onde estiver.
