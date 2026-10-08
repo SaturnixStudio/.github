@@ -1,3 +1,9 @@
 # Saturnix
 
-A Saturnix é uma organização dedicada a transformar realidades através de soluções tecnológicas inovadoras. O nosso propósito é facilitar um acesso rápido, acessível e agradável a diversos ecossistemas.
+**Saturnix** is an organization dedicated to transforming realities through innovative technology and meaningful digital solutions.
+
+Our purpose is to make technology **faster, more accessible, and more enjoyable**, creating seamless experiences across diverse digital ecosystems.
+
+We believe technology should not only solve problems. It should **inspire, connect, and create new possibilities**.
+
+### Be different.
