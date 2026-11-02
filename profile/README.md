@@ -21,3 +21,7 @@ O nosso objetivo é tornar a tecnologia **mais rápida, acessível e agradável*
 Acreditamos que a tecnologia não deve apenas resolver problemas. Deve também **inspirar, conectar e criar novas possibilidades**.
 
 ### Seja diferente.
+
+<br>
+
+<img src="https://github-act-graph.rodriaum.com/graph?organization=StudioLoad&bg_color=09090b&color=fafafa&line=d946ef&point=a855f7&area=true&hide_border=true&type=gradient" alt="Load Studio's Activity Graph" />
